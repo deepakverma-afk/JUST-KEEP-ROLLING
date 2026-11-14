@@ -1,0 +1,8 @@
+Thank you for purchasing this asset
+This shader is purely made in shadergraph
+
+You will need to have urp installed and I will recommend you to switch to deffered rendering path for better experience
+There wont be any other setting that you will need to change other from this 
+
+If you have any problem with foam on top of wawes it uses height of object so if you move your object upward change
+your height settings in the material accordingly
